@@ -1,0 +1,34 @@
+{
+  'error_code': 0,
+  'error_msg': 'SUCCESS',
+  'log_id': 8445450019420,
+  'timestamp': 1590049029,
+  'cached': 0,
+  'result': {
+    'face_num': 1,
+    'face_list': [
+      {
+        'face_token': 'c7f439cf7e732b45bd5162f60888cd82',
+        'location': {
+          'left': 114.38,
+          'top': 110.75,
+          'width': 148,
+          'height': 126,
+          'rotation': 13
+        },
+        'face_probability': 1,
+        'angle': {
+          'yaw': 23.25,
+          'pitch': 26.04,
+          'roll': -0.05
+        },
+        'age': 22,
+        'gender': {
+          'type': 'female',
+          'probability': 1
+        },
+        'beauty': 70.69
+      }
+    ]
+  }
+}
